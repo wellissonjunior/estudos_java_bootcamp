@@ -8,5 +8,16 @@ public class BoletimEstudantil {
         } else {
             System.out.println("REPROVADO");
         }
+    
+    //Operador ternário
+
+        String resultado = mediaFinal>6 ? "Aprovado" : "Reprovado";
+        int resultadoInteiro = mediaFinal>6 ? 0 : 1;
+
+        System.out.println(resultado);
+        System.out.println(resultadoInteiro);
+        
+    
     }
+
 }
