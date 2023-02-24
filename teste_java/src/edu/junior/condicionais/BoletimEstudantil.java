@@ -16,8 +16,19 @@ public class BoletimEstudantil {
 
         System.out.println(resultado);
         System.out.println(resultadoInteiro);
-        
-    
+
+        //Condicional &&
+
+        boolean condicional1 = true;
+
+        boolean condicional2 = false;
+
+        if (condicional1 && condicional2) {
+            System.out.println("As duas condicionais são verdadeiras");
+        } else {
+            System.out.println("As duas, ou uma das duas condicionais são falsas");
+        }
+                  
     }
 
 }
