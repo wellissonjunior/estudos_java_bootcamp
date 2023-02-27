@@ -1,0 +1,69 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch scanner",
+            "request": "launch",
+            "mainClass": "edu.junior.scanner.scanner",
+            "projectName": "teste_java_3a0c9b4a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.junior.condicionais.BoletimEstudantil",
+            "projectName": "teste_java_3a0c9b4a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.junior.intro.MinhaClasse",
+            "projectName": "teste_java_3a0c9b4a"
+        },
+        {
+            "type": "java",
+            "name": "Launch UsuarioTv",
+            "request": "launch",
+            "mainClass": "edu.junior.metodos.UsuarioTv",
+            "projectName": "teste_java_3a0c9b4a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "edu.junior.operadores.Operadores",
+            "projectName": "teste_java_3a0c9b4a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TerminalArgumentos",
+            "request": "launch",
+            "mainClass": "edu.junior.terminalEArgumentos.TerminalArgumentos",
+            "projectName": "teste_java_3a0c9b4a",
+            "args": [
+                "Wellisson",
+                "Junior",
+                "39",
+                "1.74"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposEVariaveis",
+            "request": "launch",
+            "mainClass": "edu.junior.tiposVariaveis.TiposEVariaveis",
+            "projectName": "teste_java_3a0c9b4a"
+        }
+    ]
+}
