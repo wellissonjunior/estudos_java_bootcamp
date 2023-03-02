@@ -1,3 +1,4 @@
+package exerciciosFor;
 import java.util.Scanner;
 
 // interromper o laço quando colocar o 0 no local do nome.
